@@ -1,0 +1,6 @@
+name=Arvind G
+father name=filled
+mother name=filled
+city=blr
+town=vjp
+college=bgsp
